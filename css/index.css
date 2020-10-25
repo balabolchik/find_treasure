@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lobster&display=swap');
+
+h1 {
+    font-family:'Lobster', cursive;
+}
+
+*{
+    margin: 0px; 
+}
+
+img {
+    width: 800px;
+    height: 800px;
+    margin: auto;
+}
+
+body{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto
+}
+
+p {
+    font-family:'Lobster', cursive;
+    font-size: 32px;
+}
+
+#treasure {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    font-size: 100px;
+    display: block;
+}
+
